@@ -5,7 +5,7 @@ Saved
 Build
 
 *.ipch
-.vscode
+.vs
 .vscode
 *.VC.db
 *.opensdf
