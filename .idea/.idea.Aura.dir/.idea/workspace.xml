@@ -9,7 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="354e6a65-7a9c-4185-a8ee-b8d002a3251d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerController.h" afterDir="false" />
     </list>
@@ -115,7 +114,8 @@
       <workItem from="1682216034951" duration="1408000" />
       <workItem from="1682234877214" duration="2245000" />
       <workItem from="1682237489362" duration="2613000" />
-      <workItem from="1682243614698" duration="5804000" />
+      <workItem from="1682243614698" duration="7080000" />
+      <workItem from="1682257747201" duration="2528000" />
     </task>
     <servers />
   </component>
