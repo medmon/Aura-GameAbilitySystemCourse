@@ -8,26 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="354e6a65-7a9c-4185-a8ee-b8d002a3251d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/1c2f927f-bee1-47d3-987f-9f268f121e1a.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/1eddcb6c-8014-4018-9ae6-1631f95769e0.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/2322bdf6-f025-49c9-829a-9ac570aa8499.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/23400dbd-e4a5-40e3-a33b-466fbcf3c2d1.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/2f4f52c2-7a09-488e-beba-8f3dd29f5392.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/44852811-f7df-4a48-b40c-528fadded3b0.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/48038a43-722c-4d2f-8f30-c20987f53e18.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/707a1002-517a-4a14-929a-4395210e0c57.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/7a5daa39-bfcb-4fb2-9f85-7993432fe9f4.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/b4284233-58f2-41e6-be3c-a6aacb9694e5.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/c942068c-600f-49f4-8a3c-875e7427b25e.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/cc5d2156-cd6e-4621-9cfa-41ad4effe41e.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/d0eb117f-6ddf-4f4f-ba8b-6d3c8b68893e.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/db6fe281-7ac5-432a-ad4b-d72cef816dd6.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/dfe7c32e-e3fe-4de6-9b72-ed9e78fbbb8f.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/e561ed3b-439f-40d0-ad9d-d2188008eaad.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/FileContentIndex/read.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/v17/fileList.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Aura/v17/ipch/75c5f26329f77b8d.ipch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aura.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Aura.uproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraCharacter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraCharacterBase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraEnemy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraCharacter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraCharacterBase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraEnemy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AuraCharacterBase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AuraCharacterBase.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +119,7 @@
       <updated>1682216033065</updated>
       <workItem from="1682216034951" duration="1408000" />
       <workItem from="1682234877214" duration="2245000" />
+      <workItem from="1682237489362" duration="1073000" />
     </task>
     <servers />
   </component>
@@ -142,5 +132,16 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Source/Aura/Private/Character/AuraCharacterBase.cpp</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
