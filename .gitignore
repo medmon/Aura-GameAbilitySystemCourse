@@ -4,6 +4,9 @@ Intermediate
 Saved
 Build
 
+**/.vs/
+
+
 *.ipch
 .vs/
 .vs
