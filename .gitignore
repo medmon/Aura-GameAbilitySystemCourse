@@ -4,6 +4,7 @@ Intermediate
 Saved
 Build
 
+*.ipch
 .vscode
 .vscode
 *.VC.db
