@@ -5,6 +5,7 @@ Saved
 Build
 
 *.ipch
+.vs/
 .vs
 .vscode
 *.VC.db
