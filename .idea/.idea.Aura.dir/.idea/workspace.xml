@@ -8,8 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe85056-f3be-46b8-b485-7d1f7f51c65d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AI/EQS/EQ_FindRangedAttackPosition.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AI/EQS/EQ_FindRangedAttackPosition.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/EQS_TestingMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/EQS_TestingMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AI/Tasks/BTT_Attack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AI/Tasks/BTT_Attack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +144,7 @@
       <workItem from="1698825505177" duration="671000" />
       <workItem from="1698826606109" duration="229000" />
       <workItem from="1698826980202" duration="1549000" />
-      <workItem from="1698831126803" duration="3882000" />
+      <workItem from="1698831126803" duration="5334000" />
     </task>
     <servers />
   </component>
