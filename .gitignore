@@ -1,9 +1,9 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-Build
-Plugins
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Plugins/
 
 **/.vs/
 
